@@ -1,0 +1,70 @@
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\obj\Debug\Chat_Server.FrmServer.resources
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe.config
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\bin\Debug\Chat-Server.pdb
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\obj\Debug\Chat-Server.exe
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt2\ChatLan\Chat-Server\obj\Debug\Chat-Server.pdb
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe.config
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\bin\Debug\Chat-Server.pdb
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\obj\Debug\Chat_Server.FrmServer.resources
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\obj\Debug\Chat_Server.Properties.Resources.resources
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.GenerateResource.cache
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\obj\Debug\Chat-Server.exe
+D:\Bảo Hà\MCB_TT\ChatLan-caotu0903-pt3\ChatLan\Chat-Server\obj\Debug\Chat-Server.pdb
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe.config
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\bin\Debug\Chat-Server.pdb
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\obj\Debug\Chat_Server.FrmServer.resources
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\obj\Debug\Chat-Server.exe
+C:\Users\ASUS\Downloads\ChatLan-hamayxx-pt5\ChatLan\Chat-Server\obj\Debug\Chat-Server.pdb
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe.config
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\bin\Debug\Chat-Server.exe
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\bin\Debug\Chat-Server.pdb
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.AssemblyReference.cache
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\obj\Debug\Chat_Server.FrmServer.resources
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.GenerateResource.cache
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\obj\Debug\Chat-Server.exe
+C:\Users\Khang\Desktop\ChatLan\ChatLan\Chat-Server\obj\Debug\Chat-Server.pdb
+D:\Study\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.exe.config
+D:\Study\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.exe
+D:\Study\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.pdb
+D:\Study\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+D:\Study\ChatLan_beta\Chat-Server\obj\Debug\Chat_Server.FrmServer.resources
+D:\Study\ChatLan_beta\Chat-Server\obj\Debug\Chat_Server.Properties.Resources.resources
+D:\Study\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csproj.GenerateResource.cache
+D:\Study\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+D:\Study\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.exe
+D:\Study\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.pdb
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.exe.config
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.exe
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.pdb
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\obj\Debug\Chat_Server.FrmServer.resources
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.exe
+C:\Users\Admin\Downloads\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.pdb
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.exe.config
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.exe
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\bin\Debug\Chat-Server.pdb
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csproj.AssemblyReference.cache
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\obj\Debug\Chat_Server.FrmServer.resources
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\obj\Debug\Chat_Server.Properties.Resources.resources
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csproj.GenerateResource.cache
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.csproj.CoreCompileInputs.cache
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.exe
+C:\Users\Khang\Desktop\ChatLan_OK\ChatLan_beta\Chat-Server\obj\Debug\Chat-Server.pdb
